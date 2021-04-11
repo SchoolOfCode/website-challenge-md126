@@ -23,3 +23,5 @@ This project will span the first two weeks of the bootcamp, and you will be give
 ## _Nicely_
 
 A clear and concise summary of what I have learnt would be that HTML and CSS are the foundations of the web. HTML— HyperText Markup Language— is the standard markup language used to write web pages, which is then shared across the web. HTML is made up of elements- paragraphs, headers, lists, links-, attributes and comments which give each web page structure and contain the content of the page itself- text, images, videos. A website is simply a collection of webpages located on a same domain. Programs used to open HTML documents, is a browser, as it interprets the source code. CSS— Cascading Style Sheets— is the language used to style an HTML document and describe how HTML elements should be displayed. Using CSS, you can give a web page its own backgrounds, font, text styles, colors. Simply put, CSS is what makes HTML look good.
+
+##
