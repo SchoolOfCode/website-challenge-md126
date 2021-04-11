@@ -1,0 +1,171 @@
+.blocks {
+    width: 90%;
+    max-width: 1000px;
+    min-height: 2em;
+    height: auto;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-template-rows: auto;
+    grid-template-areas:
+    "header header header"
+    "profile pic about"
+    "game game game"
+    "water dream scratch"
+    "footer footer footer"
+}
+
+body {
+    background:whitesmoke);
+}
+
+*{font-family: 'Courier New', Courier, monospace;}
+
+.h2font {
+    text-align: center;
+  }
+
+/* Style the header  */
+.header {
+    background-color: black;
+    grid-area: header;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+
+/* Style the profile */
+.profile {
+    border-right: 10px solid black;
+    grid-area: profile;
+    text-align: left; 
+    padding-left: 30px;
+}
+
+#headingprofile {
+    margin-top: 30%;
+    text-align: left;
+    padding-left: 10px;
+}
+
+/* Style the block */
+.about {
+    border-left: 10px solid black;
+    padding: 0px 10px 5px 10px;
+    grid-area: about;  
+    text-align: center;
+}
+
+/* Style the profile picture */
+.profilepicyonis {
+    grid-area: pic; 
+    display: flex; justify-content: center;
+    align-content: center;
+}
+
+/* Style the picture */
+#picyonis {
+    width: 100%;
+    max-width: 200px; 
+    align-self: center;
+    padding: 10px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: whitesmoke;
+    border-radius: 50%;
+}
+
+/*Style the block */
+.game {
+    border:double black 10px;
+    color:black;
+    grid-area: game;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+
+span:hover {
+    font-size: 20px;
+    background-color: firebrick;
+    color: white;
+}
+
+#list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/*Style the block */
+.dream {
+    grid-area: dream;    
+    text-align: center;
+    padding: 5px 10px 0px 10px;
+}
+
+#mauritius {
+    height: auto;
+    width: 90%;
+}
+
+/*Style the block */
+.water {
+    border-right: 10px solid black;
+    padding: 0px 10px 5px 10px;
+    grid-area: water; 
+    text-align: center;   
+
+}
+
+/* Style the picture */
+#gym {
+    max-height: 130px;
+    width: 30%;
+    height: auto;
+}
+
+/* Style the picture */
+#jetski {
+    max-height: 130px;
+    width: 30%;
+    height: auto;
+
+}
+
+/* Style the picture */
+#kayak {
+    max-height: 130px;
+    width: 30%;
+    height: auto;
+
+}
+
+/* Style the my work */
+.scratch {
+    border-left: 10px solid black;
+    grid-area: scratch; 
+    text-align: center;
+}
+
+#scratch-game {
+    display: block;
+    height: 250px;
+    margin: 0 auto 10px auto;
+    width: 300px;
+}
+
+/* Style the footer */
+.footer {
+    background-color: black;
+    color: white; 
+    grid-area: footer;
+    font-size: 20px;
+    text-align: center;
+}
+
+#github {
+    max-height: 30px;
+    width: auto;
+    height: auto;
+}
