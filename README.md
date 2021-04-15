@@ -19,3 +19,11 @@ This is not only a chance for you to practice the core skills of HTML and CSS, b
 Although you will each have an individual repository in which to make the website, there is nothing stopping you pair programming with your partner on the project. Organise your time so that you can spend an equal amount of time on each project. For example, if you spend three hours coding together on Sunday, you would spend 1.5 hours pair programming on one site, before moving over to the other site.
 
 This project will span the first two weeks of the bootcamp, and you will be given time in live evening sessions to work on it as well.
+
+## _Nicely_
+
+A clear and concise summary of what I have learnt would be that HTML and CSS are the foundations of the web. HTML— HyperText Markup Language— is the standard markup language used to write web pages, which is then shared across the web. HTML is made up of elements- paragraphs, headers, lists, links-, attributes and comments which give each web page structure and contain the content of the page itself- text, images, videos. A website is simply a collection of webpages located on a same domain. Programs used to open HTML documents, is a browser, as it interprets the source code. CSS— Cascading Style Sheets— is the language used to style an HTML document and describe how HTML elements should be displayed. Using CSS, you can give a web page its own backgrounds, font, text styles, colors. Simply put, CSS is what makes HTML look good.
+
+## Project
+Initially, I drew up a plan of the steps I wanted to follow in order to create my webpage. I researched webpage layouts and designs before meeting with my client so I could present some ideas to him. I met with my client to decide the content of the webpage with some specific questions already in mind to gain a deeper understanding of what he felt to be important in his own profile. We drew out a layout and discussed colours and a theme, which was decided to be a 'clean, minimalistic' design incorporating his favourite colour, black. I decided to create a grid on the webpage for all the topic areas so I could easily manipulate the content of each section within the grid. I concentrated on the HTML first and then slowly began to add to the CSS alongside.  
+
